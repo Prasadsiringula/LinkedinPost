@@ -1,0 +1,13 @@
+const post = {
+  author: {
+    name: "John Doe",
+    title: "Software Engineer at XYZ Inc.",
+    profilePicture: "https://example.com/profile-picture.jpg"
+  },
+  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  time: "1 hour ago",
+  comments: [
+    { author: "Jane Doe", content: "Great post!" },
+    { author: "Jim Smith", content: "I agree." }
+  ]
+};
